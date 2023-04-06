@@ -1,2 +1,2 @@
 # multitool
-Collection of useful python functions and scripts
+Useful python scripts and funcs I've developed over the years
